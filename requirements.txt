@@ -1,3 +1,9 @@
 matplotlib
 astropy
 aplpy
+pyregion
+shapely
+numpy
+scikit-image
+pillow
+reproject
