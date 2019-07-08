@@ -1,6 +1,6 @@
 matplotlib
 astropy
-aplpy
+aplpy<2
 pyregion
 shapely
 numpy
